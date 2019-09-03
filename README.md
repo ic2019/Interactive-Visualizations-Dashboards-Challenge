@@ -41,11 +41,11 @@ Use Flask API starter code to serve the data needed for your plots.
 
 * Tested different routes.
 
-1. /samples/<sample>
+1. ```/samples/<sample>```
 
 ![route1](Images/route1-2.png)
 
-2. /metadata/<sample>
+2. ```/metadata/<sample>```
 
 ![route1](Images/route2-2.png)
 
