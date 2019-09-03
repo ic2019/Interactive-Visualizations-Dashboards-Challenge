@@ -10,7 +10,7 @@ Used Plotly.js to build interactive charts for this dashboard.
 
 * Created a PIE chart that uses data from samples route (`/samples/<sample>`) to display the top 10 samples.
 
-  ![PIE Chart](Images/pie_chart.png)
+  ![PIE Chart](Images/pie-chart.png)
 
 * Created a Bubble Chart that uses data from samples route (`/samples/<sample>`) to display each sample.
 
